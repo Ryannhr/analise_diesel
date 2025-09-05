@@ -241,3 +241,4 @@ st.caption(
     "Fórmula da margem de erro (%): (Tanque − Sistema) / Tanque × 100. "
     "Positivo = sobra no tanque | Negativo = sobra no sistema."
 )
+    
